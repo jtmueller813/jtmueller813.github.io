@@ -352,6 +352,14 @@ li.dropdown {
   position: bottom;
 }
 
+/*2021 Main Picture*/
+._2021-main {
+  background: url(Images/2020/pm_2020_main.jpg) no-repeat center;
+  background-size: cover;
+  height: 855px;
+  position: bottom;
+}
+
 /*Stats and Awards Picture*/
 .stats_awards-image {
   background: url(Images/pm_stats_awards.jpg) no-repeat center;
