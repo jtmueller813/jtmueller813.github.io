@@ -354,9 +354,57 @@ li.dropdown {
 
 /*2021 Main Picture*/
 ._2021-main {
-  background: url(Images/2020/pm_2020_main.jpg) no-repeat center;
+  background: url(Images/2021/PM2021_1.jpg) no-repeat center;
   background-size: cover;
   height: 855px;
+  position: bottom;
+}
+
+/*2021 Gallery Picture 1*/
+._2021-gallery-1 {
+  background: url(Images/2021/PM2021_2.jpg) no-repeat center;
+  background-size: cover;
+  height: 903px;
+  position: bottom;
+}
+
+/*2021 Gallery Picture 2*/
+._2021-gallery-2 {
+  background: url(Images/2021/PM2021_3.jpg) no-repeat center;
+  background-size: cover;
+  height: 903px;
+  position: bottom;
+}
+
+/*2021 Gallery Picture 3*/
+._2021-gallery-3 {
+  background: url(Images/2021/PM2021_4.jpg) no-repeat center;
+  background-size: cover;
+  height: 903px;
+  position: bottom;
+}
+
+/*2021 Gallery Picture 4*/
+._2021-gallery-4 {
+  background: url(Images/2021/PM2021_5.jpg) no-repeat center;
+  background-size: cover;
+  height: 903px;
+  position: bottom;
+}
+
+/*2021 Gallery Picture 5*/
+._2021-gallery-5 {
+  background: url(Images/2021/PM2021_6.jpg) no-repeat center;
+  background-size: cover;
+  height: 903px;
+  position: bottom;
+}
+
+/*2021 Gallery Picture 6*/
+._2021-gallery-6 {
+  background: url(Images/2021/PM2021_7.jpg) no-repeat center;
+  background-size: cover;
+  height: 903px;
   position: bottom;
 }
 
