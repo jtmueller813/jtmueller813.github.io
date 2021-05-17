@@ -262,7 +262,7 @@ li.dropdown {
 ._2019-main {
   background: url(Images/2019/pm_2019_main.jpg) no-repeat center;
   background-size: cover;
-  height: 855px;
+  height: 100%;
   position: relative;
 }
 
