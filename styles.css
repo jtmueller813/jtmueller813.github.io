@@ -9,11 +9,11 @@ Mahomes logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJI
 /*Smooth scroll*/
 html {
   scroll-behavior: smooth;
-  /*Remove Scrollbar*/
 }
-body::-webkit-scrollbar {
+/*Remove Scrollbar*/
+/*body::-webkit-scrollbar {
   display: none;
-}
+}*/
 /*Highlight Color*/
 ::selection {
   color: rgb(227, 24, 55);
