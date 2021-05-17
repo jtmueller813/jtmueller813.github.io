@@ -230,7 +230,7 @@ li.dropdown {
 .early_life-image {
   background: url(Images/pm_early_life.jpg) no-repeat center;
   background-size: cover;
-  height: 100%;
+  height: 720px;
   position: relative;
 }
 
@@ -239,7 +239,7 @@ li.dropdown {
   background: url(Images/pm_college_draft.jpg) no-repeat center;
   background-size: cover;
   height: 855px;
-  position: bottom;
+  position: relative;
 }
 
 /*Rookie Year Picture*/
@@ -247,7 +247,7 @@ li.dropdown {
   background: url(Images/pm_rookie_year.jpg) no-repeat center;
   background-size: cover;
   height: 855px;
-  position: bottom;
+  position: relative;
 }
 
 /*2018 - MVP Picture*/
@@ -255,7 +255,7 @@ li.dropdown {
   background: url(Images/pm_2018.jpg) no-repeat center;
   background-size: cover;
   height: 855px;
-  position: bottom;
+  position: relative;
 }
 
 /*2019 Main Picture*/
@@ -263,7 +263,7 @@ li.dropdown {
   background: url(Images/2019/pm_2019_main.jpg) no-repeat center;
   background-size: cover;
   height: 855px;
-  position: bottom;
+  position: relative;
 }
 
 /*2019 Gallery Picture 1*/
@@ -327,7 +327,7 @@ li.dropdown {
   background: url(Images/2020/pm_2020_main.jpg) no-repeat center;
   background-size: cover;
   height: 855px;
-  position: bottom;
+  position: relative;
 }
 
 /*2020 Gallery Picture 1*/
@@ -367,7 +367,7 @@ li.dropdown {
   background: url(Images/2021/PM2021_1.jpg) no-repeat center;
   background-size: cover;
   height: 855px;
-  position: bottom;
+  position: relative;
 }
 
 /*2021 Gallery Picture 1*/
@@ -423,14 +423,14 @@ li.dropdown {
   background: url(Images/pm_stats_awards.jpg) no-repeat center;
   background-size: cover;
   height: 903px;
-  position: bottom;
+  position: relative;
 }
 
 /*Gallery Pictures*/
 .gallery-image {
   background: url(Images/Gallery/pm1.jpg) no-repeat center;
   height: 900px;
-  position: bottom;
+  position: relative;
   background-size: cover;
 }
 
