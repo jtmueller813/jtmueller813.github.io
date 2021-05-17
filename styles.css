@@ -230,7 +230,7 @@ li.dropdown {
 .early_life-image {
   background: url(Images/pm_early_life.jpg) no-repeat center;
   background-size: cover;
-  height: 720px;
+  height: 100%;
   /*position: bottom;*/
 }
 
