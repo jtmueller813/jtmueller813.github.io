@@ -238,7 +238,7 @@ li.dropdown {
 .college_draft-image {
   background: url(Images/pm_college_draft.jpg) no-repeat center;
   background-size: cover;
-  height: 855px;
+  height: 100%;
   position: relative;
 }
 
