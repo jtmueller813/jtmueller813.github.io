@@ -231,7 +231,7 @@ li.dropdown {
   background: url(Images/pm_early_life.jpg) no-repeat center;
   background-size: cover;
   height: 720px;
-  position: bottom;
+  /*position: bottom;*/
 }
 
 /*College and Draft Picture*/
