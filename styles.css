@@ -226,6 +226,10 @@ li.dropdown {
   height: 100%;
 }
 
+#home {
+  height: 100%;
+}
+
 /*Early Life Picture*/
 .early_life-image {
   background: url(Images/pm_early_life.jpg) no-repeat center;
@@ -238,7 +242,7 @@ li.dropdown {
 .college_draft-image {
   background: url(Images/pm_college_draft.jpg) no-repeat center;
   background-size: cover;
-  height: 100%;
+  height: 855px;
   position: relative;
 }
 
