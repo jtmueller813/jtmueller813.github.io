@@ -288,6 +288,8 @@ li.dropdown {
   background: url(Images/pm_home.jpg) no-repeat center;
   background-size: cover;
   height: 100%;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
 }
 
 #home {
