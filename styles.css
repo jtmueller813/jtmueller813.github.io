@@ -225,8 +225,9 @@ li.dropdown {
 
 /*Other Big Text/Image*/
 .bg-text {
-  background-color: rgb(0, 0, 0);
-  background-color: rgba(255, 0, 0, 0.4);
+  /*background-color: rgb(0, 0, 0);
+  background-color: rgba(255, 0, 0, 0.4);*/
+  filter: grayscale(100%);
   color: rgb(255, 255, 255);
   font-weight: bold;
   font-size: 80px;
